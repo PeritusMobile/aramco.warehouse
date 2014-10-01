@@ -1,0 +1,314 @@
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\img\LoadCustomerDown.jpg
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\img\LoadCustomerUp.jpg
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\img\UnloadVendorDown.jpg
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\bin\Debug\img\UnloadVendorUp.jpg
+C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.21.08.2014.Set028\ARAMCO.Src. Back.12.08.2014.Set027\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.Native.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.VGA.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmConsolidate.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmConsolidate.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.Native.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.VGA.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set031\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.Native.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.VGA.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmConsolidate.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.26.08.2014.Set032\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.Native.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Skins\Default.VGA.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\bin\Debug\Resco.KeyboardPro.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.frmConsolidate.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set033\ARAMCO.Src. Back.26.08.2014.Set030\ARAMCO.Src. Back.26.08.2014.Set030\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmLogin.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.SplashForm.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmLoadCustomer.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmDiscrepancy.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmLoad.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmMainMenu.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmSettings.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmUnloadSupplier.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmUnloadLinehaul.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmStagingArea.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmConsolidate.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.WH.Client.App.csproj.GenerateResource.Cache
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.KeyboardPro.Native.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Skins\Default.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Skins\Default.VGA.rpk
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\ulsap.udb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\ARAMCO.Client.exe
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.AdvancedList.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.CommonControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.Core.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.ImageBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.KeyboardPro.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.OutlookControls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.RichTextBox.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.ScrollBar.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.UIElements.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.UIElements.Controls.CF2.dll
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.ImageBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.RichTextBox.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.UIElements.Controls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.Core.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.ScrollBar.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.CommonControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.UIElements.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.AdvancedList.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.OutlookControls.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\bin\Debug\Resco.KeyboardPro.CF2.xml
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.pdb
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmtest.resources
+C:\Users\Edwin Ramos\Documents\Customer\ABC\ARAMCO\ARAMCO.Src. Back.09.09.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\ARAMCO.Src. Back.26.08.2014.Set034\CS\obj\Debug\ARAMCO.Client.frmUnloadWarehouse.resources

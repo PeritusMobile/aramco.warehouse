@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ARAMCO.Client.SLN">
+</Property><Property Name="Solution File" Value="C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\ARAMCO.Client.SLN.sln">
+</Property><Property Name="Date" Value="Monday, July 07, 2014">
+</Property><Property Name="Time" Value="11:22:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\ARAMCO.DR.Client.csdproj" Description="Project file successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\ARAMCO.DR.Client.csdproj">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="2" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\MainForm.cs" Description="Failed to backup file as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\SplashForm.cs" Description="File successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\SplashForm.cs">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\animation.bmp" Description="File successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\animation.bmp">
+</Event><Event ErrorLevel="2" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\MainForm.resx" Description="Failed to backup file as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\splash.jpg" Description="File successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\splash.jpg">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\SplashForm.resx" Description="File successfully backed up as C:\Users\Edwin Ramos\Desktop\ARAMCO.Src. Back.07.07.2014.Set021\ARAMCO.Src. Back.07.07.2014.Set021\CS\Backup\SplashForm.resx">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\ARAMCO.DR.Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\ARAMCO.DR.Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\MainForm.resx" Description="Internal Error:Unspecified error.File not converted">
+</Event><Event ErrorLevel="3" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\MainForm.resx" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\SplashForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\SplashForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ARAMCO.DR.Client" Source="..\ARAMCO.DR.Client\ARAMCO.DR.Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,379 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60CC5257-89DB-4519-999A-55602F99E13D}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ARAMCO.Client</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OutputFileFolder>\Program Files\SplashScreen Sample</OutputFileFolder>
+    <RootNamespace>ARAMCO.Client</RootNamespace>
+    <StartupObject>ARAMCO.Client.frmLogin</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OSVersion>5.02</OSVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <DeployDirSuffix>$(AssemblyName)</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="iAnywhere.Data.UltraLite, Version=16.0.0.1915, Culture=neutral, PublicKeyToken=ff11483eb5a8c1a5, processorArchitecture=MSIL" />
+    <Reference Include="iAnywhere.Data.UltraLite.resources, Version=16.0.0.1915, Culture=en, PublicKeyToken=ff11483eb5a8c1a5, processorArchitecture=MSIL" />
+    <Reference Include="iAnywhere.MobiLink.Client, Version=16.0.0.19151, Culture=neutral, PublicKeyToken=2738fdb0ba658331, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib">
+      <Name>MSCorLib</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Resco.AdvancedList.CF2, Version=5.12.0.5, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Resco.CommonControls.CF2, Version=5.12.0.5, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Resco.Core.CF2, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL" />
+    <Reference Include="Resco.ImageBox.CF2, Version=5.12.0.0, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Resco.KeyboardPro.CF2, Version=5.12.0.5, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL" />
+    <Reference Include="Resco.OutlookControls.CF2, Version=5.12.1.3, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Resco.RichTextBox.CF2, Version=5.12.0.1, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Resco.ScrollBar.CF2, Version=5.12.0.2, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL" />
+    <Reference Include="Resco.UIElements.CF2, Version=5.12.2.3, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL" />
+    <Reference Include="Resco.UIElements.Controls.CF2, Version=5.12.2.3, Culture=neutral, PublicKeyToken=7444f602060105f9, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="animation.bmp" />
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.jpg" />
+    <EmbeddedResource Include="SplashForm.resx">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clsDBMgrMain.cs" />
+    <Compile Include="clsGlobals.cs" />
+    <Compile Include="frmUnloadWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnloadWarehouse.Designer.cs">
+      <DependentUpon>frmUnloadWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtest.Designer.cs">
+      <DependentUpon>frmtest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnloadLinehaul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnloadLinehaul.Designer.cs">
+      <DependentUpon>frmUnloadLinehaul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadCustomer.Designer.cs">
+      <DependentUpon>frmLoadCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsolidate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsolidate.Designer.cs">
+      <DependentUpon>frmConsolidate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeliveryInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeliveryInfo.Designer.cs">
+      <DependentUpon>frmDeliveryInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiscrepancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiscrepancy.Designer.cs">
+      <DependentUpon>frmDiscrepancy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoad.Designer.cs">
+      <DependentUpon>frmLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStagingArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStagingArea.Designer.cs">
+      <DependentUpon>frmStagingArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnloadSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnloadSupplier.Designer.cs">
+      <DependentUpon>frmUnloadSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HtmlEntities.cs" />
+    <Compile Include="HttpUtility.cs" />
+    <Compile Include="NativeClass\PowerStatus.cs" />
+    <Compile Include="SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aramcologo.jpg" />
+    <EmbeddedResource Include="frmLoadCustomer.resx">
+      <DependentUpon>frmLoadCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiscrepancy.resx">
+      <DependentUpon>frmDiscrepancy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoad.resx">
+      <DependentUpon>frmLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnloadSupplier.resx">
+      <DependentUpon>frmUnloadSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\smalllogoaramco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmUnloadLinehaul.resx">
+      <DependentUpon>frmUnloadLinehaul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStagingArea.resx">
+      <DependentUpon>frmStagingArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="img\ConsolidateDown.jpg" />
+    <EmbeddedResource Include="img\ConsolidateUp.jpg" />
+    <EmbeddedResource Include="img\DeConsolidateDown.jpg" />
+    <EmbeddedResource Include="img\DeConsolidateUp.jpg" />
+    <EmbeddedResource Include="img\DeliveryInfoDown.jpg" />
+    <EmbeddedResource Include="img\DeliveryInfoUp.jpg" />
+    <EmbeddedResource Include="img\mSettingsDown.jpg" />
+    <EmbeddedResource Include="img\mSettingsUp.jpg" />
+    <EmbeddedResource Include="img\StagingAreaInvDown.jpg" />
+    <EmbeddedResource Include="img\StagingAreaInvUp.jpg" />
+    <EmbeddedResource Include="img\mLogOnDisabled.jpg" />
+    <EmbeddedResource Include="img\ReportDiscrepancyDisabled.jpg" />
+    <EmbeddedResource Include="img\ReportDiscrepancyDown.jpg" />
+    <EmbeddedResource Include="img\ReportDiscrepancyUp.jpg" />
+    <EmbeddedResource Include="img\SearchItemsDisabled.jpg" />
+    <EmbeddedResource Include="img\SearchItemsDown.jpg" />
+    <EmbeddedResource Include="img\SearchItemsUp.jpg" />
+    <EmbeddedResource Include="img\DiscrepancyDown.jpg" />
+    <EmbeddedResource Include="img\DiscrepancyUp.jpg" />
+    <Content Include="..\..\..\..\..\..\..\..\..\..\Program Files %28x86%29\Resco MobileForms Toolkit - Windows Mobile\KeyboardPro\Bin\PocketPC\Resco.KeyboardPro.Native.dll">
+      <Link>Resco.KeyboardPro.Native.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ulsap.udb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\..\..\..\..\..\..\..\Program Files %28x86%29\Resco MobileForms Toolkit - Windows Mobile\KeyboardPro\Bin\Skins\Default.rpk">
+      <Link>Skins\Default.rpk</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\..\..\..\..\..\..\..\Program Files %28x86%29\Resco MobileForms Toolkit - Windows Mobile\KeyboardPro\Bin\Skins\Default.VGA.rpk">
+      <Link>Skins\Default.VGA.rpk</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="frmUnloadWarehouse.resx">
+      <DependentUpon>frmUnloadWarehouse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtest.resx">
+      <DependentUpon>frmtest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="img\BackDown.jpg" />
+    <EmbeddedResource Include="img\AddDown.jpg" />
+    <EmbeddedResource Include="img\AddUp.jpg" />
+    <EmbeddedResource Include="img\LoadCompleteDown.jpg" />
+    <EmbeddedResource Include="img\LoadCompleteUp.jpg" />
+    <EmbeddedResource Include="img\LoadForCustomerDown.jpg" />
+    <EmbeddedResource Include="img\LoadForCustomerUp.jpg" />
+    <EmbeddedResource Include="img\LoadForVendorDown.jpg" />
+    <EmbeddedResource Include="img\LoadForVendorUp.jpg" />
+    <EmbeddedResource Include="img\mLogOnDown.jpg" />
+    <EmbeddedResource Include="img\mLogOnUp.jpg" />
+    <EmbeddedResource Include="img\PrintDown.jpg" />
+    <EmbeddedResource Include="img\AddDisabled.jpg" />
+    <Content Include="img\BarcodeScan.jpg" />
+    <EmbeddedResource Include="img\PrintDisabled.jpg" />
+    <EmbeddedResource Include="img\LoadForLineHaulDown.jpg" />
+    <EmbeddedResource Include="img\LoadForLineHaulUp.jpg" />
+    <EmbeddedResource Include="img\LoadCompleteDisabled.jpg" />
+    <EmbeddedResource Include="img\DeSelAllDown.jpg" />
+    <EmbeddedResource Include="img\DeSelAllUp.jpg" />
+    <EmbeddedResource Include="img\DeSelAllDisabled.jpg" />
+    <Content Include="img\PrintManifestDown.jpg" />
+    <Content Include="img\PrintManifestUp.jpg" />
+    <EmbeddedResource Include="img\RemoveDisabled.jpg" />
+    <EmbeddedResource Include="img\TabRollPalletDisabled.jpg" />
+    <EmbeddedResource Include="img\TabRollPalletDown.jpg" />
+    <EmbeddedResource Include="img\TabRollPalletUp.jpg" />
+    <EmbeddedResource Include="img\SelAllDown.jpg" />
+    <EmbeddedResource Include="img\SelAllUp.jpg" />
+    <EmbeddedResource Include="img\SelAllDisabled.jpg" />
+    <EmbeddedResource Include="img\TabASNDisabled.jpg" />
+    <EmbeddedResource Include="img\TabASNDown.jpg" />
+    <EmbeddedResource Include="img\TabASNUp.jpg" />
+    <EmbeddedResource Include="img\TabPackageDisabled.jpg" />
+    <EmbeddedResource Include="img\TabPackageDown.jpg" />
+    <EmbeddedResource Include="img\TabPackageUp.jpg" />
+    <EmbeddedResource Include="img\TabVendorDown.jpg" />
+    <EmbeddedResource Include="img\TabVendorUp.jpg" />
+    <EmbeddedResource Include="img\Un_PortDown.jpg" />
+    <EmbeddedResource Include="img\Un_PortUp.jpg" />
+    <EmbeddedResource Include="img\Un_LineHaulDown.jpg" />
+    <EmbeddedResource Include="img\Un_LineHaulUp.jpg" />
+    <EmbeddedResource Include="img\Un_WarehouseDown.jpg" />
+    <EmbeddedResource Include="img\Un_WarehouseUp.jpg" />
+    <EmbeddedResource Include="img\PrintUp.jpg" />
+    <EmbeddedResource Include="img\RemoveDown.jpg" />
+    <EmbeddedResource Include="img\RemoveUp.jpg" />
+    <EmbeddedResource Include="img\BackUp.jpg" />
+    <EmbeddedResource Include="img\LogOffDown.jpg" />
+    <EmbeddedResource Include="img\LogOffUp.jpg" />
+    <EmbeddedResource Include="img\Un_VendorDown.jpg" />
+    <EmbeddedResource Include="img\Un_VendorUp.jpg" />
+    <EmbeddedResource Include="frmConsolidate.resx">
+      <DependentUpon>frmConsolidate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="img\LoadDown.jpg" />
+    <EmbeddedResource Include="img\LoadUp.jpg" />
+    <EmbeddedResource Include="img\UnloadDown.jpg" />
+    <EmbeddedResource Include="img\UnloadUp.jpg" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

@@ -1,0 +1,823 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Resco.UIElements.Controls.CF2</name>
+    </assembly>
+    <members>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.ShouldSerializeDropDownAlign">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownAlign"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.ResetDropDownAlign">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownAlign"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.ShouldSerializeDropDownPosition">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownPosition"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.ResetDropDownPosition">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownPosition"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.OnDropDown(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDown"/> event.
+            </summary>
+            <param name="e">An <see cref="T:System.EventArgs"/> that contains the event data. </param>
+            <remarks>
+            <p>The <see cref="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDown"/> event occurs when the drop-down calendar is shown.</p>
+            <p>The <b>OnDropDown</b> method also allows derived classes to handle the event without attaching a delegate. 
+            This is the preferred technique for handling the event in a derived class.</p>
+            <p><b>Notes to Inheritors:</b>  When overriding <b>OnDropDown</b> in a derived class, be sure to call 
+            the base class's <b>OnDropDown</b> method so that registered delegates receive the event.</p>
+            </remarks>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIBaseComboBoxControl.OnDropDownClosed(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownClosed"/> event.
+            </summary>
+            <param name="e">An <see cref="T:System.EventArgs"/> that contains the event data. </param>
+            <remarks>
+            <p>The <see cref="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownClosed"/> event occurs when the drop-down is dismissed and disappears.</p>
+            <p>The <b>OnDropDownClosed</b> method also allows derived classes to handle the event without attaching a delegate. 
+            This is the preferred technique for handling the event in a derived class.</p>
+            <p><b>Notes to Inheritors:</b>  When overriding <b>OnCloseUp</b> in a derived class, be sure to call 
+            the base class's <b>OnCloseUp</b> method so that registered delegates receive the event.</p>
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIBaseComboBoxControl.TriangleColor">
+            <summary>
+            Gets or sets color of triangle.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDown">
+            <summary>
+            Occurs when the drop-down is showed.
+            </summary>
+            <value>
+            The event handler receives an argument of type <see cref="T:System.EventArgs"/>.
+            </value>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIBaseComboBoxControl.DropDownClosed">
+            <summary>
+            Occurs when the drop-down was closed.
+            </summary>
+            <value>
+            The event handler receives an argument of type <see cref="T:System.EventArgs"/>.
+            </value>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UITextBoxControl.ShouldSerializeAcceptButton">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UITextBoxControl.AcceptButton"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UITextBoxControl.ResetAcceptButton">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UITextBoxControl.AcceptButton"/> property to its default value.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UITextBoxControl.ScrollPosition">
+            <summary>
+            Function set/get origin point (positive values).
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UITextBoxControl.AutoHideScrollers">
+            <summary>
+            Set or get flag indication, that scroll bars should hide automatically few seconds after scroll finished.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UITextBoxControl.ScrollBarsMode">
+            <summary>
+            Specifies the scrollbars mode on document edges. 
+            </summary>
+        </member>
+        <member name="F:Resco.UIElements.Controls.UIDateTimePickerControl.MaxDateTime">
+            <summary>
+            Gets the maximum date value.
+            </summary>
+        </member>
+        <member name="F:Resco.UIElements.Controls.UIDateTimePickerControl.MinDateTime">
+            <summary>
+            Gets the minimum date value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ShouldSerializeDefaultValue">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.DefaultValue"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ResetDefaultValue">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.DefaultValue"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.GoToEditMode">
+            <summary>
+            Control goes to edit. Highlights the first editable item in OutlookDateTimePicker.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ShouldSerializeFormat">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.Format"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ResetFormat">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.Format"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ShouldSerializeValue">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.Value"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ResetValue">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.Value"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ShouldSerializeDropDownTitleMode">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownTitleMode"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.ResetDropDownTitleMode">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownTitleMode"/> property to its default value.
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.OnValueChanged(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:Resco.UIElements.Controls.UIDateTimePickerControl.ValueChanged"/> event.
+            </summary>
+            <param name="e">An <see cref="T:System.EventArgs"/> that contains the event data. </param>
+            <remarks>
+            <p>The <see cref="E:Resco.UIElements.Controls.UIDateTimePickerControl.ValueChanged"/> event occurs when the value for the control changes.</p>
+            <p>The <b>OnValueChanged</b> method also allows derived classes to handle the event without attaching a delegate. 
+            This is the preferred technique for handling the event in a derived class.</p>
+            <p><b>Notes to Inheritors:</b>  When overriding <b>OnValueChanged</b> in a derived class, be sure to call 
+            the base class's <b>OnValueChanged</b> method so that registered delegates receive the event.</p>
+            </remarks>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimePickerControl.OnButtonPressed(System.Object,Resco.UIElements.FormButtonPressedEventArgs)">
+            <summary>
+            Raises the <see cref="!:NoneButtonPressed"/> event.
+            </summary>
+            <param name="e">An <see cref="T:System.EventArgs"/> that contains the event data. </param>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.MaxDate">
+            <summary>
+            Gets or sets the maximum date and time that can be selected in the control.
+            </summary>
+            <value>
+            The maximum date and time that can be selected in the control. The default is 12/31/2900.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.MinDate">
+            <summary>
+            Gets or sets the minimum date and time that can be selected in the control.
+            </summary>
+            <value>
+            The minimum date and time that can be selected in the control. The default is 1/1/1900.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.SelectedBackColor">
+            <summary>
+            Gets or sets the selected background color.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the selected background color of the control. The default is <see cref="P:System.Drawing.SystemColors.ActiveCaption"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.SelectedForeColor">
+            <summary>
+            Gets or sets the selected foreground color.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the selected foreground color of the control. The default is <see cref="P:System.Drawing.SystemColors.ActiveCaptionText"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.SaturdayColor">
+            <summary>
+            Gets or sets the Saturday color.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the saturday color of the control. The default is <see cref="P:System.Drawing.Color.Blue"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.SundayColor">
+            <summary>
+            Gets or sets the Sunday color.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the sunday color of the control. The default is <see cref="P:System.Drawing.Color.Red"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.Format">
+            <summary>
+            Gets or sets the format of the date displayed in the control.
+            </summary>
+            <value>
+            One of the <see cref="T:System.Windows.Forms.DateTimePickerFormat"/> values. 
+            The default is <see cref="F:System.Windows.Forms.DateTimePickerFormat.Long"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.CustomFormat">
+            <summary>
+            Gets or sets the custom date format string.
+            </summary>
+            <value>
+            A string that represents the custom date format.
+            </value>
+            <remarks>
+            The format strings can be combined to format the date.
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.Value">
+            <summary>
+            Gets or sets the date value assigned to the control.
+            </summary>
+            <value>
+            The <see cref="T:System.DateTime"/> value assign to the control.
+            </value>
+            <remarks>
+            If the <b>Value</b> property has not been changed in code or by the user, it is set to the current date and time (<see cref="P:System.DateTime.Now"/>).
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.DateTimeFormatInfo">
+            <summary>
+            Gets or sets custom <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.DateTimeFormatInfo"/>.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownCustomFormat">
+            <summary>
+            Specifies the rollers custom format
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownButtonWidth">
+            <summary>
+            Gets or sets the Drop down button's width.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownBackColor">
+            <summary>
+            Gets or sets the drop down color.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the drop down color of the control. 
+            The default is <see cref="P:System.Drawing.SystemColors.Control"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.EnableMergedDayMonthRoller">
+            <summary>
+            If true and format contains "...M d..." or "...d M...", day and month will be displayed in one single roller
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerForeColor">
+            <summary>
+            Gets or sets the touch picker's text color.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerFont">
+            <summary>
+            Gets or sets the touch picker's text font.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerDefaultValueColor">
+            <summary>
+            Gets or sets the touch picker's actual text color. (e.g.: Today's color)
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerSelectedForeColor">
+            <summary>
+            Gets or sets the touch picker's selected text color.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerSaturdayColor">
+            <summary>
+            Gets or sets the Saturday color for day roller.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the saturday color of the control. The default is <see cref="P:System.Drawing.Color.Blue"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.RollerSundayColor">
+            <summary>
+            Gets or sets the Sunday color for day roller.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the sunday color of the control. The default is <see cref="P:System.Drawing.Color.Red"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.MinuteInterval">
+            <summary>
+            Specifies the minute interval for the Minute roller.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.IsNone">
+            <summary>
+            Gets the value indicating if None date is selected.
+            </summary>
+            <value>
+            <b>true</b> if a NONE is selected from the calendar; otherwise, <b>false</b>. The default is <b>false</b>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.NoneText">
+            <summary>
+            Gets or sets the value that is displayed as None button text.
+            </summary>
+            <value>
+            A string that represents the text associated with None button.
+            </value>
+            <remarks>
+            You can change None text when you are doing localization.
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.NoneValueText">
+            <summary>
+            Gets or sets the value that is displayed as None text.
+            </summary>
+            <value>
+            A string that represents the text associated with None value.
+            </value>
+            <remarks>
+            You can change None text when you are doing localization.
+            </remarks>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIDateTimePickerControl.ValueChanged">
+            <summary>
+            Occurs when the <see cref="P:Resco.UIElements.Controls.UIDateTimePickerControl.Value"/> property changes.
+            </summary>
+            <value>
+            The event handler receives an argument of type <see cref="T:System.EventArgs"/>.
+            </value>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIDateTimePickerControl.ButtonPressed">
+            <summary>
+            Occurs when the None button was pressed.
+            </summary>
+            <value>
+            The event handler receives an argument of type <see cref="T:System.EventArgs"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.DropDownButtons">
+            <summary>
+            Gets or sets the drop down buttons showed in the drop down.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.Text">
+            <summary>
+            Gets or sets the text associated with this control. Throws a
+            FormatException if the specified text is not a valid date.
+            </summary>
+            <value>
+            A string that represents the text associated with this control.
+            </value>
+            <remarks>
+            The string returned by this property is equivalent to the <see cref="!:UIDateTimePickerColor.Value"/> property with the appropriate formatting or custom formatting applied.
+            <p>
+            When setting this property, the string must be convertible to an instance of the <see cref="T:System.DateTime"/> class.
+            It is possible to define a custom format that results in a string that cannot be converted to a valid <b>DateTime</b> value.
+            Because of this, the string returned from the <b>Text</b> property might cause an error if it is passed back to the <b>Text</b> property.
+            If the string cannot be converted to a date/time value, the <see cref="T:System.DateTime"/> class throws a <see cref="T:System.FormatException"/>.
+            </p>
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.TodayText">
+            <summary>
+            Gets or sets the value that is displayed as Today text.
+            </summary>
+            <value>
+            A string that represents the text associated with Today button.
+            </value>
+            <remarks>
+            You can change Today text when you are doing localization.
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.ShowRollerTitles">
+            <summary>
+            Show or hide roller's title
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.TitleBackColor">
+            <summary>
+            Set or get roller's title background color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.TitleForeColor">
+            <summary>
+            Set or get roller's title fore color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimePickerControl.TitleFont">
+            <summary>
+            Set or get roller's title font
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.SelectedBackColor">
+            <summary>
+            Gets or sets selection background color.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.SelectedForeColor">
+            <summary>
+            Gets or sets selection text color.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.SelectedFont">
+            <summary>
+            Gets or sets selection text font.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.ScrollPosition">
+            <summary>
+            Function set/get origin point (positive values).
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.TouchScrollFriction">
+            <summary>Specifies the physical friction that influences the speed of scrolling.</summary>
+            <remarks>
+            <para>The value must be positive. It specifies the frame rate for scrolling animation. The default value is 10.
+            This value simulates the smooth surface and it is optimal for a list-view with a longer document.
+            </para>
+            <para>If the slower scrolling is desired (let's say for smaller documents), 
+            set the higher friction that will simulate the rough surface and scrolling the scrolling will stop in shorter time.
+            </para>
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.TouchScrollSensitivity">
+            <summary>
+            Parametric value for touch scroll. 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.BounceMode">
+            <summary>
+            Enable touch to outside of document size. Control automatically scroll to nearest valid position after mouse up event.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.AutoHideScrollers">
+            <summary>
+            Set or get flag indication, that scroll bars should hide automatically few seconds after scroll finished 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.ScrollBarsMode">
+            <summary>
+            Specifies the scrollbars mode on document edges. 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.ScrollBarsVisibility">
+            <summary>
+            Get or set scroll bar visibility
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.HorizontalScrollBarSize">
+            <summary>
+            Get or set horizontal scroll bar size
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIListViewControl.VerticalScrollBarSize">
+            <summary>
+            Get or set vertical scroll bar size
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIColorRollerControl.ShowRollerTitles">
+            <summary>
+            Show or hide roller's title
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIColorRollerControl.TitleBackColor">
+            <summary>
+            Set or get roller's title background color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIColorRollerControl.TitleForeColor">
+            <summary>
+            Set or get roller's title fore color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIColorRollerControl.TitleFont">
+            <summary>
+            Set or get roller's title font
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.TouchScrollFriction">
+            <summary>Specifies the physical friction that influences the speed of scrolling.</summary>
+            <remarks>
+            <para>The value must be positive. It specifies the frame rate for scrolling animation. The default value is 10.
+            This value simulates the smooth surface and it is optimal for a list-view with a longer document.
+            </para>
+            <para>If the slower scrolling is desired (let's say for smaller documents), 
+            set the higher friction that will simulate the rough surface and scrolling the scrolling will stop in shorter time.
+            </para>
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.ShowRollerTitles">
+            <summary>
+            Show or hide roller's title
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.TitleBackColor">
+            <summary>
+            Set or get roller's title background color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.TitleForeColor">
+            <summary>
+            Set or get roller's title fore color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.TitleFont">
+            <summary>
+            Set or get roller's title font
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.RollerBackground">
+            <summary>
+            Get or set appearance of the roller background
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.SelectedForeColor">
+            <summary>
+            Gets or sets the touch picker's selection text color.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIRollerPanelControl.CellMinimumSize">
+            <summary>
+            Get or set minimal size for roller's text.  
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimeRollerControl.ShouldSerializeDefaultValue">
+            <summary>
+            Indicates whether the <see cref="P:Resco.UIElements.Controls.UIDateTimeRollerControl.DefaultValue"/> property should be persisted.
+            </summary>
+            <returns><b>true</b> if the property value has changed from its default; otherwise, <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIDateTimeRollerControl.ResetDefaultValue">
+            <summary>
+            Resets the <see cref="P:Resco.UIElements.Controls.UIDateTimeRollerControl.DefaultValue"/> property to its default value.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.Format">
+            <summary>
+            Gets or sets the format of the date displayed in the control.
+            </summary>
+            <value>
+            One of the <see cref="T:System.Windows.Forms.DateTimePickerFormat"/> values. 
+            The default is <see cref="F:System.Windows.Forms.DateTimePickerFormat.Long"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.CustomFormat">
+            <summary>
+            Gets or sets the custom date format string.
+            </summary>
+            <value>
+            A string that represents the custom date format.
+            </value>
+            <remarks>
+            The format strings can be combined to format the date.
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.EnableMergedDayMonthRoller">
+            <summary>
+            If format contains "...MMM dd..." or "...dd MMM...", day and month will be displayed in one single roller.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.MaxDate">
+            <summary>
+            Gets or sets the maximum date and time that can be selected in the control.
+            </summary>
+            <value>
+            The maximum date and time that can be selected in the control. The default is 12/31/2900.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.MinDate">
+            <summary>
+            Gets or sets the minimum date and time that can be selected in the control.
+            </summary>
+            <value>
+            The minimum date and time that can be selected in the control. The default is 1/1/1900.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.Value">
+            <summary>
+            Select or get selected date/time value.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.DefaultValueColor">
+            <summary>
+            Gets or sets the touch picker's actual text color. (e.g.: Today's color)
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.SaturdayColor">
+            <summary>
+            Gets or sets the Saturday color for day roller.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the saturday color of the control. The default is <see cref="P:System.Drawing.Color.Blue"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIDateTimeRollerControl.SundayColor">
+            <summary>
+            Gets or sets the Sunday color for day roller.
+            </summary>
+            <value>
+            A <see cref="T:System.Drawing.Color"/> that represents the sunday color of the control. The default is <see cref="P:System.Drawing.Color.Red"/>.
+            </value>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIAnimatedLabelControl.AnimationType">
+            <summary>
+            Direction in which label will be animated
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIAnimatedLabelControl.AnimationSpeed">
+            <summary>
+            Speed of animation defined as number of pixels per minute. 
+            </summary>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIOptionViewControl.Select(Resco.UIElements.OptionLabel)">
+            <summary>
+            Select row containing specific OptionLabel
+            </summary>
+            <param name="item">OptionLabel to be selected</param>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIOptionViewControl.EnsureVisible(Resco.UIElements.OptionLabel)">
+            <summary>
+            Ensures that the specified item is visible within the control, scrolling the row of the control if necessary.
+            </summary>
+            <param name="item"><see cref="T:Resco.UIElements.OptionLabel"/> to ensure visible.</param>
+            <returns><b>true</b> if control scrolled, otherwise <b>false</b>.</returns>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIOptionViewControl.EnsureVisible(Resco.UIElements.UIElement)">
+            <summary>
+            Ensures that the specified option control is visible within the control, scrolling the row of the control if necessary.
+            </summary>
+            <param name="optionControl"><see cref="T:Resco.UIElements.UIElement"/> to ensure visible.</param>
+        </member>
+        <member name="M:Resco.UIElements.Controls.UIOptionViewControl.EnsureVisibleFocusedElement">
+            <summary>
+            Ensures that the selected item is visible within the control, scrolling the row of the control if necessary.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.SectionBorderThickness">
+            <summary>
+            Gets or sets the border thickness for the element.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.SectionBorderColor">
+            <summary>
+            Gets or sets the border color for the element. BorderThickness must be defined.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.OddRowColor">
+            <summary>
+            Gets or sets the odd row color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.RowColor">
+            <summary>
+            Gets or sets the odd row color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.SelectedRowColor">
+            <summary>
+            Gets or sets the selected row color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.SelectedBorderColor">
+            <summary>
+            Gets or sets the selected row border color
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.SectionRoundedCornerRadius">
+            <summary>
+            Gets or sets the rounded corners for the section box.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.DefaultRowType">
+            <summary>
+            Sets or gets default OptionLabelType for sections
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.PageAnimationDelay">
+            <summary>
+            Set or get time of animation during the page change
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.RowHeight">
+            <summary>
+            Set or get height of option row
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.IconAreaWidth">
+            <summary>
+            Set or get icon area width
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.ScrollPosition">
+            <summary>
+            Function set/get origin point (positive values).
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.TouchScrollFriction">
+            <summary>Specifies the physical friction that influences the speed of scrolling.</summary>
+            <remarks>
+            <para>The value must be positive. It specifies the frame rate for scrolling animation. The default value is 10.
+            This value simulates the smooth surface and it is optimal for a list-view with a longer document.
+            </para>
+            <para>If the slower scrolling is desired (let's say for smaller documents), 
+            set the higher friction that will simulate the rough surface and scrolling the scrolling will stop in shorter time.
+            </para>
+            </remarks>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.TouchScrollSensitivity">
+            <summary>
+            Parametric value for touch scroll. 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.BounceMode">
+            <summary>
+            Enable touch to outside of document size. Control automatically scroll to nearest valid position after mouse up event.
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.AutoHideScrollers">
+            <summary>
+            Set or get flag indication, that scroll bars should hide automatically few seconds after scroll finished 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.ScrollBarsMode">
+            <summary>
+            Specifies the scrollbars mode on document edges. 
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.ScrollBarsVisibility">
+            <summary>
+            Get or set scroll bar visibility
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.HorizontalScrollBarSize">
+            <summary>
+            Get or set horizontal scroll bar size
+            </summary>
+        </member>
+        <member name="P:Resco.UIElements.Controls.UIOptionViewControl.VerticalScrollBarSize">
+            <summary>
+            Get or set vertical scroll bar size
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.OptionPageChanging">
+            <summary>
+            Notify the parent that OptionPage is going to be changed.
+            Set Cancel=true in case you wish to prevent change.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.OptionPageChanged">
+            <summary>
+            Notify the parent that OptionPage has been changed.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.ButtonStateChanging">
+            <summary>
+            Notify the parent that OptionCheckBox is going to be checked.
+            Set Cancel=true in case you wish to prevent change.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.ButtonStateChanged">
+            <summary>
+            Notify the parent that OptionCheckBox has been checked.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.ItemChanging">
+            <summary>
+            Occurs when the item is about to change. 
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.ItemChanged">
+            <summary>
+            Occurs when the item was changed.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.SelectionChanging">
+            <summary>
+            Notify the parent that OptionItem is going to be selected.
+            Set Cancel=true in case you wish to prevent change.
+            </summary>
+        </member>
+        <member name="E:Resco.UIElements.Controls.UIOptionViewControl.SelectionChanged">
+            <summary>
+            Notify the parent that view has changed selection.
+            </summary>
+        </member>
+    </members>
+</doc>

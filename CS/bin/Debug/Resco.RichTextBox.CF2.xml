@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Resco.RichTextBox.CF2</name>
+    </assembly>
+    <members>
+        <member name="T:Resco.Controls.RichTextBox.ScrollAction">
+            <summary>Specifies scrolling action of the RichTextBox content.</summary>
+        </member>
+        <member name="T:Resco.Controls.RichTextBox.RichTextBoxStreamType">
+            <summary>Specifies the types of input and output streams used to load and save data in the RichTextBox control.</summary>
+        </member>
+        <member name="F:Resco.Controls.RichTextBox.RichTextBoxStreamType.RichText">
+            <summary>A Rich Text Format (RTF) stream.</summary>
+        </member>
+        <member name="F:Resco.Controls.RichTextBox.RichTextBoxStreamType.PlainText">
+            <summary>A plain text stream that includes spaces in places of Object Linking and Embedding (OLE) objects.</summary>
+        </member>
+        <member name="F:Resco.Controls.RichTextBox.RichTextBoxStreamType.UnicodePlainText">
+            <summary>A text stream that contains spaces in place of Object Linking and Embedding (OLE) objects. The text is encoded in Unicode.</summary>
+        </member>
+        <member name="T:Resco.Controls.RichTextBox.RichTextBox">
+            <summary>Represents a Windows rich text box control.</summary>
+            <note><b><font color="red">This control is not supported on Win32.</font> On Win32 it is possible use System.Windows.Forms.RichTextBox control.</b></note>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.#ctor">
+            <summary>Constructs the RichTextBox object.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnParentChanged(System.EventArgs)">
+            <summary>Raises the ParentChanged event and creates the child control window.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.LoadFile(System.String)">
+            <summary>Loads a rich text format (RTF) or standard ASCII text file into the RichTextBox control.</summary>
+            <param name="path">The name and location of the file to load into the control.</param>
+            <exception cref="T:System.IO.IOException">An error occurred while loading the file into the control.</exception>
+            <exception cref="T:System.ArgumentException">The file being loaded is not an RTF document.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.LoadFile(System.IO.Stream,Resco.Controls.RichTextBox.RichTextBoxStreamType)">
+            <summary>Loads the contents of an existing data stream into the RichTextBox control.</summary>
+            <param name="data">A stream of data to load into the RichTextBox control.</param>
+            <param name="fileType">One of the RichTextBoxStreamType values.</param>
+            <exception cref="T:System.IO.IOException">An error occurred while loading the file into the control.</exception>
+            <exception cref="T:System.ArgumentException">The file being loaded is not an RTF document.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.LoadFile(System.String,Resco.Controls.RichTextBox.RichTextBoxStreamType)">
+            <summary>Loads a specific type of file into the RichTextBox control.</summary>
+            <param name="path">The name and location of the file to load into the control.</param>
+            <param name="fileType">One of the RichTextBoxStreamType values.</param>
+            <exception cref="T:System.IO.IOException">An error occurred while loading the file into the control.</exception>
+            <exception cref="T:System.ArgumentException">The file being loaded is not an RTF document.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.SaveFile(System.String)">
+            <summary>Saves the contents of the RichTextBox to a rich text format (RTF) file.</summary>
+            <param name="path">The name and location of the file to save.</param>
+            <exception cref="T:System.IO.IOException">An error occurs in saving the contents of the control to a file.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.SaveFile(System.IO.Stream,Resco.Controls.RichTextBox.RichTextBoxStreamType)">
+            <summary>Saves the contents of a RichTextBox control to an open data stream.</summary>
+            <param name="data">The data stream that contains the file to save to.</param>
+            <param name="fileType">One of the RichTextBoxStreamType values.</param>
+            <exception cref="T:System.ArgumentException">An invalid file type is specified in the fileType parameter.</exception>
+            <exception cref="T:System.IO.IOException">An error occurs in saving the contents of the control to a file.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.SaveFile(System.String,Resco.Controls.RichTextBox.RichTextBoxStreamType)">
+            <summary>Saves the contents of the RichTextBox to a specific type of file.</summary>
+            <param name="path">The name and location of the file to save.</param>
+            <param name="fileType">One of the RichTextBoxStreamType values.</param>
+            <exception cref="T:System.ArgumentException">An invalid file type is specified in the fileType parameter.</exception>
+            <exception cref="T:System.IO.IOException">An error occurs in saving the contents of the control to a file.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnTextChanged(System.EventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.TextChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnEnabledChanged(System.EventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.EnabledChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.MouseUp event.</summary>
+            <param name="e">A System.Windows.Forms.MouseEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnResize(System.EventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.Resize event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnGotFocus(System.EventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.GotFocus event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnLostFocus(System.EventArgs)">
+            <summary>Raises the System.Windows.Forms.Control.LostFocus event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnBackColorChanged(System.EventArgs)">
+            <summary>Raises the BackColorChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnForeColorChanged(System.EventArgs)">
+            <summary>Raises the ForeColorChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0 and a non-standard color value was assigned.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.AppendText(System.String)">
+            <summary>Appends text to the current text of a text box.</summary>
+            <param name="text">The text to append to the current contents of the text box.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.AppendRtf(System.String)">
+            <summary>Appends rich text format (RTF) formatted text to the current text of a text box.</summary>
+            <param name="rtf">The rich text format (RTF) formatted text to append to the current contents of the text box.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.AppendLink(System.String,System.String)">
+            <summary>Appends hyperlink to the current text of a text box.</summary>
+            <param name="text">The text to append to the current contents of the text box.</param>
+            <param name="target">The hyperlink target text</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.CanPaste(System.String)">
+            <summary>Determines whether you can paste information from the Clipboard in the specified data format.</summary>
+            <returns>true if you can paste data from the Clipboard in the specified data format; otherwise, false.</returns>
+            <param name="clipFormat">One of the System.Windows.Forms.DataFormats.Format values.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Clear">
+            <summary>Clears all text from the text box control.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.ClearUndo">
+            <summary>Clears information about the most recent operation from the undo buffer of the text box.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Redo">
+            <summary>Reapplies the last operation that was undone in the control.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Undo">
+            <summary>Undoes the last edit operation in the text box.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Copy">
+            <summary>Copies the current selection in the text box to the Clipboard.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Cut">
+            <summary>Moves the current selection in the text box to the Clipboard.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Paste">
+            <summary>Replaces the current selection in the text box with the contents of the Clipboard.</summary>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.ScrollToCaret">
+            <summary>Scrolls the contents of the control to the current caret position.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Scroll(Resco.Controls.RichTextBox.ScrollAction)">
+            <summary>Scrolls the content of the control according to choosed direction.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Scroll(System.Int32)">
+            <summary>
+            Scrolls the text vertically or horizontally in a multiline edit control. 
+            <remarks>The edit control does not scroll vertically past the last line of text in the edit control. If the current line plus the number of lines specified by the cyScroll parameter exceeds the total number of lines in the edit control, the value is adjusted so that the last line of the edit control is scrolled to the top of the edit-control window.</remarks>
+            </summary>
+            <param name="cyScroll">Specifies the number of lines to scroll vertically.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.Select(System.Int32,System.Int32)">
+            <summary>Selects a range of text in the text box.</summary>
+            <param name="start">The position of the first character in the current text selection within the text box.</param>
+            <param name="length">The number of characters to select.</param>
+            <exception cref="T:System.ArgumentOutOfRangeException">The value of the start parameter is less than zero.</exception>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.SelectAll">
+            <summary>Selects all text in the text box.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.DeselectAll">
+            <summary>Specifies that the value of the SelectionLength property is zero so that no characters are selected in the control.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnHideSelectionChanged(System.EventArgs)">
+            <summary>Raises the HideSelectionChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnMultilineChanged(System.EventArgs)">
+            <summary>Raises the MultilineChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnReadOnlyChanged(System.EventArgs)">
+            <summary>Raises the ReadOnlyChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnHScroll(System.EventArgs)">
+            <summary>Raises the HScroll event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnSelectionChanged(System.EventArgs)">
+            <summary>Raises the SelectionChanged event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnVScroll(System.EventArgs)">
+            <summary>Raises the VScroll event.</summary>
+            <param name="e">An System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnLinkClicked(Resco.Controls.RichTextBox.LinkClickedEventArgs)">
+            <summary>Raises the LinkClicked event.</summary>
+            <param name="e">An LinkClickedEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.RichTextBox.OnProtected(System.EventArgs)">
+            <summary>Raises the Protected event.</summary>
+            <param name="e">An EventArgs that contains the event data.</param>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.Text">
+            <summary>Gets or sets the current text in the text box.</summary>
+            <returns>The text displayed in the control. </returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.TextLength">
+            <summary>Gets the length of text in the control.</summary>
+            <returns>The number of characters contained in the text of the control.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.Rtf">
+            <summary>Gets or sets the text of the RichTextBox control, including all rich text format (RTF) codes.</summary>
+            <returns>The text of the control in RTF format.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.BackColor">
+            <summary>Gets or sets the background color of the control.</summary>
+            <returns>A System.Drawing.Color that represents the background of the control.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.BackColorChanged">
+            <summary>Occurs when the value of the BackColor property changes.</summary>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.ForeColor">
+            <summary>Gets or sets the foreground color of the control.</summary>
+            <returns>A System.Drawing.Color that represents the control's foreground color.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0 and a non-standard color value was assigned.</exception>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.ForeColorChanged">
+            <summary>Occurs when the value of the ForeColor property changes.</summary>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionColor">
+            <summary>Gets or sets the text color of the current text selection or insertion point.</summary>
+            <returns>A System.Drawing.Color that represents the color to apply to the current text selection or to text entered after the insertion point.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0 and a non-standard color value was assigned.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionBackColor">
+            <summary>Gets or sets the background color of the current text selection or insertion point.</summary>
+            <returns>A System.Drawing.Color that represents the color to apply to the current text selection or to text entered after the insertion point.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.BorderStyle">
+            <summary>Gets or sets the border type of the RichTextBox control.</summary>
+            <returns>A System.Windows.Forms.BorderStyle that represents the border type of the text box control. The default is FixedSingle.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.Font">
+            <summary>Gets or sets the font used when displaying text in the control.</summary>
+            <returns>The System.Drawing.Font to apply to the text displayed by the control. The default is the value of the System.Windows.Forms.Control.DefaultFont property.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionFont">
+            <summary>Gets or sets the font of the current text selection or insertion point.</summary>
+            <returns>A System.Drawing.Font that represents the font to apply to the current text selection or to text entered after the insertion point.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionIndent">
+            <summary>Gets or sets the length, in pixels, of the indentation of the line where the selection starts.</summary>
+            <returns>The current distance, in pixels, of the indentation applied to the left of the current text selection or the insertion point.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionBullet">
+            <summary>Gets or sets a value indicating whether the bullet style is applied to the current selection or insertion point.</summary>
+            <returns>true if the current selection or insertion point has the bullet style applied; otherwise, false.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.BulletIndent">
+            <summary>Gets or sets the indentation used in the RichTextBox control when the bullet style is applied to the text.</summary>
+            <returns>The number of pixels inserted as the indentation after a bullet. The default is zero.</returns>
+            <exception cref="T:System.ArgumentException">The specified indentation was less than zero.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionAlignment">
+            <summary>Gets or sets the alignment to apply to the current selection or insertion point.</summary>
+            <returns>One of the System.Windows.Forms.HorizontalAlignment values</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionStart">
+            <summary>Gets or sets the starting point of text selected in the text box.</summary>
+            <returns>The starting position of text selected in the text box.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">The assigned value is less than zero.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectionLength">
+            <summary>Gets or sets the number of characters selected in the text box.</summary>
+            <returns>The number of characters selected in the text box.</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">The assigned value is less than zero.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectedText">
+            <summary>Gets or sets a value indicating the currently selected text in the control.</summary>
+            <returns>A string that represents the currently selected text in the text box.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.SelectedRtf">
+            <summary>Gets or sets the currently selected rich text format (RTF) formatted text in the control.</summary>
+            <returns>The selected RTF text in the control.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.HideSelection">
+            <summary>Gets or sets a value indicating whether the selected text in the text box
+            control remains highlighted when the control loses focus.</summary>
+            <returns>true if the selected text does not appear highlighted when the text box control
+            loses focus; false, if the selected text remains highlighted when the text
+            box control loses focus. The default is true.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0 and a value was changed after the control was created.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.Multiline">
+            <summary>Gets or sets a value indicating whether this is a multiline text box control.</summary>
+            <returns>true if the control is a multiline text box control; otherwise, false. The default is false.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.ReadOnly">
+            <summary>Gets or sets a value indicating whether text in the text box is read-only.</summary>
+            <returns>true if the text box is read-only; otherwise, false. The default is false.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0 and a value was changed after the control was created.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.ScrollBars">
+            <summary>Gets or sets which scroll bars should appear in a multiline RichTextBox control.</summary>
+            <returns>One of the System.Windows.Forms.ScrollBars enumeration values that indicates whether a multiline RichTextBox control appears with no scroll bars, a horizontal scroll bar, a vertical scroll bar, or both. The default is ScrollBars.None.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.CanRedo">
+            <summary>Gets a value indicating whether there are actions that have occurred within the RichTextBox that can be reapplied.</summary>
+            <returns>true if there are operations that have been undone that can be reapplied to the content of the control; otherwise, false.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.CanUndo">
+            <summary>Gets a value indicating whether the user can undo the previous operation in a text box control.</summary>
+            <returns>true if the user can undo the previous operation performed in a text box control; otherwise, false.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.WordWrap">
+            <summary>Indicates whether a multiline text box control automatically wraps words to the beginning of the next line when necessary.</summary>
+            <returns>true if the multiline text box control wraps words; false if the text box control automatically scrolls horizontally when the user types past the right edge of the control. The default is true.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.ZoomFactor">
+            <summary>Gets or sets the current zoom level of the RichTextBox.</summary>
+            <returns>The factor by which the contents of the control is zoomed.</returns>
+            <exception cref="T:System.ArgumentException">The specified zoom factor did not fall within the permissible range.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.Modified">
+            <summary>Gets or sets a value that indicates that the text box control has been modified by the user since the control was created or its contents were last set.</summary>
+            <returns>true if the control's contents have been modified; otherwise, false. The default is false.</returns>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.AutoWordSelection">
+            <summary>Gets or sets a value indicating whether automatic word selection is enabled.</summary>
+            <returns>true if automatic word selection is enabled; otherwise, false. The default is true.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.DetectUrls">
+            <summary>Gets or sets a value indicating whether or not the RichTextBox will automatically format a Uniform Resource Locator (URL) when it is typed into the control.</summary>
+            <returns>true if the RichTextBox will automatically format URLs that are typed into the control as a link; otherwise, false. The default is true.</returns>
+            <exception cref="T:System.NotSupportedException">Underlying operating system does not support RichEdit v2.0.</exception>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.RichTextBox.DisableSelection">
+            <summary>Indicates whether the mouse input should lead to text selection or whether it should be overridden.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.HideSelectionChanged">
+            <summary>Occurs when the value of the HideSelection property has changed.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.ModifiedChanged">
+            <summary>Occurs when the value of the Modified property has changed.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.MultilineChanged">
+            <summary>Occurs when the value of the Multiline property has changed.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.ReadOnlyChanged">
+            <summary>Occurs when the value of the ReadOnly property has changed.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.HScroll">
+            <summary>Occurs when the user clicks the horizontal scroll bar of the control.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.SelectionChanged">
+            <summary>Occurs when the selection of text within the control has changed.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.VScroll">
+            <summary>Occurs when the user clicks the vertical scroll bars of the control.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.LinkClicked">
+            <summary>Occurs when the user clicks on a link within the text of the control.</summary>
+        </member>
+        <member name="E:Resco.Controls.RichTextBox.RichTextBox.Protected">
+            <summary>Occurs when the user attempts to modify protected text in the control.</summary>
+        </member>
+        <member name="T:Resco.Controls.RichTextBox.LinkClickedEventArgs">
+            <summary>Provides data for the RichTextBox.LinkClicked event.</summary>
+        </member>
+        <member name="M:Resco.Controls.RichTextBox.LinkClickedEventArgs.#ctor(System.String)">
+            <summary>Initializes a new instance of the LinkClickedEventArgs class.</summary>
+            <param name="linkText">The text of the link that is clicked in the RichTextBox control.</param>
+        </member>
+        <member name="P:Resco.Controls.RichTextBox.LinkClickedEventArgs.LinkText">
+            <summary>Gets the text of the link being clicked.</summary>
+            <returns>The text of the link that is clicked in the RichTextBox control.</returns>
+        </member>
+    </members>
+</doc>
